@@ -10,3 +10,5 @@ practicing tu push code in github
 soumya is back in github
 
 soumya is back in github in git-raj
+
+pushing code to github using custom push 
